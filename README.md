@@ -12,6 +12,8 @@ The goal of this assignment was to develop a WebGL program that will allow the u
 - Key(board) events for changing control modes, and transformation implementation 
 - Mouse events for picking objects
 
+![Pacman](./Assignment_1_Pacman/More/Screenshots/Dragged_and_dropped.png)
+
 ## Assignment 2:
 This assignment simulates a simple game on a playground shaped like a regular n-sided polygon. There are m players (with m < n) positioned at different corners. One player, chosen by the user as the "catcher," moves to any other corner in a straight line. Each corner can only hold one player at a time. If the catcher moves to an occupied corner, the player already there must move to another unoccupied corner.
 
