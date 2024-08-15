@@ -1,0 +1,46 @@
+.inputs{
+    display:block;
+    position: absolute;
+    top: 550px;
+}
+
+.refresh{
+    display:block;
+    position: absolute;
+    top: 550px;
+}
+
+.instructions{
+    display:flexbox;
+    position: absolute;
+    left: 550px;
+    top: 10px;
+    padding: 10px;
+    border-radius: 20px 20px 20px 20px;
+    border: 2px solid black;
+    width: 400px;
+    text-align: center;
+}
+
+.keys{
+    text-align: center;
+}
+
+.viewMode{
+    width: 530px;
+    position:fixed;
+    left: 450px;
+    top: 20px;
+}
+
+.placeholder_canvas{
+    position: absolute;
+    top: 10px;
+    width: 520px;
+    height: 520px;
+    background-color: #c8c8c8;
+}
+
+.hidden{
+    display:none;
+}

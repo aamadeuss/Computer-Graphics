@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <script type="module" src="index.js"></script> -->
+    <!-- <script type="module" src="movingAhead.js"></script> -->
+    <!-- <script type="module" src="MERGED-camera-rotate-withEvents.js"></script> -->
+    <!-- <script type="module" src="MERGED-camera-picker-divyam-integration.js"></script> -->
+    <script type="module" src="index.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+<br>
+<br>
+<div class="inputs">
+    Players: <input type="number" name="players" id="players" value="2" min="2" max="7">
+    <br>
+    <br>
+    Corners: <input type="number" name="corners" id="corners" value="4" min="4" max="10">
+    <br>
+    <br>
+    <button id="start">Start</button>
+</div>
+<div class="refresh hidden">
+    Refresh to start new game.
+</div>
+<br>
+
+<div class="placeholder_canvas"></div>
+<div class="instructions">
+    Instructions
+    <hr>
+    <div class="keys">
+        <code>
+            l: Zoom In
+        </code>
+        <br>
+        <code>
+            k: Zoom Out
+        </code>
+        <br>
+        <code>
+            c: Change Camera View
+        </code>
+        <br>
+        <code>
+            -: Scale Down the Catcher
+        </code>
+        <br>
+        <code>
+            =: Scale Up the Catcher
+        </code>
+    </div>
+    <hr>
+    <div class="inst">
+        <code>
+            Step 1: Set no. of players and corners you want.
+        </code>
+        <br>
+        <code>
+            Step 2: Select the catcher by clicking on it.
+        </code>
+        <br>
+        <code>
+            Step 3: You can move the catcher around by click and dragging it.
+        </code>
+    </div>
+    <hr>
+    <div class="additional">
+        <code>
+            Control Camera: Change view modes using `c` key. You can change the orientation of view in 3D mode.
+        </code>
+    </div>
+</div>
+<div class="viewMode hidden">
+    Top View
+</div>
+</body>
+</html>
