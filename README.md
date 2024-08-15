@@ -1,6 +1,6 @@
 # Computer Graphics Assignments
 Collection of all assignments from the Computer Graphics course.
-Teammates: Divyam (@cdivyam) and Aniruddh (@aniruddhkb)
+Teammates: Divyam [@cdivyam](https://github.com/cdivyam) and Aniruddh [@aniruddhkb](https://github.com/aniruddhkb)
 
 <p align="center">
   <img src="./Assignment_1_Pacman/More/Screenshots/Dragged_and_dropped.png" width="350" title="Pacman">
