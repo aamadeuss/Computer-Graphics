@@ -2,6 +2,10 @@
 Collection of all assignments from the Computer Graphics course.
 Teammates: Divyam (@cdivyam) and Aniruddh (@aniruddhkb)
 
+![Pacman](./Assignment_1_Pacman/More/Screenshots/Dragged_and_dropped.png)
+![Catch_game](https://github.com/user-attachments/assets/2e2d7cc1-652f-4b4b-ba13-331f0e5ab208)
+
+
 ## Assignment 1:
 The goal of this assignment was to develop a WebGL program that will allow the user to pick a Pac-Man maze configuration.
 
@@ -11,8 +15,6 @@ The goal of this assignment was to develop a WebGL program that will allow the u
 - Transformation of 2D objects and scene -- instance-wise implementation
 - Key(board) events for changing control modes, and transformation implementation 
 - Mouse events for picking objects
-
-![Pacman](./Assignment_1_Pacman/More/Screenshots/Dragged_and_dropped.png)
 
 ## Assignment 2:
 This assignment simulates a simple game on a playground shaped like a regular n-sided polygon. There are m players (with m < n) positioned at different corners. One player, chosen by the user as the "catcher," moves to any other corner in a straight line. Each corner can only hold one player at a time. If the catcher moves to an occupied corner, the player already there must move to another unoccupied corner.
