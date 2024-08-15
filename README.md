@@ -2,6 +2,11 @@
 Collection of all assignments from the Computer Graphics course.
 Teammates: Divyam (@cdivyam) and Aniruddh (@aniruddhkb)
 
+<p align="center">
+  <img src="./Assignment_1_Pacman/More/Screenshots/Dragged_and_dropped.png" width="350" title="Pacman">
+  <img src="https://github.com/user-attachments/assets/2e2d7cc1-652f-4b4b-ba13-331f0e5ab208" width="350" alt="Catch Game">
+</p>
+
 ![Pacman](./Assignment_1_Pacman/More/Screenshots/Dragged_and_dropped.png)
 ![Catch_Game](https://github.com/user-attachments/assets/2e2d7cc1-652f-4b4b-ba13-331f0e5ab208)
 ![Pendulum]("./Assignment_4_Pendulum_Animations_with_Collisions/Screenshots/entire scene.png")
