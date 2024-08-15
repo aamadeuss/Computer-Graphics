@@ -3,8 +3,11 @@ Collection of all assignments from the Computer Graphics course.
 Teammates: Divyam (@cdivyam) and Aniruddh (@aniruddhkb)
 
 ![Pacman](./Assignment_1_Pacman/More/Screenshots/Dragged_and_dropped.png)
-![Catch_game](https://github.com/user-attachments/assets/2e2d7cc1-652f-4b4b-ba13-331f0e5ab208)
-
+![Catch_Game](https://github.com/user-attachments/assets/2e2d7cc1-652f-4b4b-ba13-331f0e5ab208)
+![Pendulum](./Assignment_4_Pendulum_Animations_with_Collisions/Screenshots/entire scene.png)
+![Ball_POV](./Assignment_4_Pendulum_Animations_with_Collisions/Screenshots/camera attached to moving part.png)
+![Textures](./Assignment_3_Lighting_and_Textures/Screenshots/t3_1.png)
+![Shading](./Assignment_3_Lighting_and_Textures/Screenshots/t1_2.png)
 
 ## Assignment 1:
 The goal of this assignment was to develop a WebGL program that will allow the user to pick a Pac-Man maze configuration.
